@@ -1,0 +1,30 @@
+{
+  "generated": {
+    "source_name": "DeFlock community ALPR feed",
+    "fetched": 142848,
+    "accepted": 142738,
+    "rejected": 110,
+    "quarantined": 0,
+    "written_new": 125349,
+    "merged": 17389,
+    "updated": 0,
+    "unchanged": 0,
+    "stale_flagged": 0,
+    "removed_from_source_flagged": 0,
+    "rejection_reasons": {
+      "outside_us_scope": 110
+    }
+  },
+  "tile_precision": 5,
+  "tiles": 27041,
+  "records": 125349,
+  "sources": [
+    "DeFlock community ALPR feed"
+  ],
+  "license": {
+    "database_license": "ODbL",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "attribution": "\u00a9 OpenStreetMap contributors (ODbL); DeFlock community feed",
+    "share_alike_notice": "This tile database is a Derivative Database of OpenStreetMap data under the Open Database License (ODbL) 1.0. If you publicly use or redistribute this database or a derivative of it, you must attribute as above and offer the derivative database under ODbL."
+  }
+}
